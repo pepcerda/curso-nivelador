@@ -8,3 +8,5 @@ Para ejecutar este programa se deben seguir las instrucciones señaladas en este
 
 4.- El comando anterior levanatará la aplicación en el puerto 8080 del localhost. Entonces, copiando este enlace en un explorador podremos ver el API ejecutándose: http://localhost:8080/
 
+5.- Para testear el API, se puede utilizar POSTMAN para realizar las peticiones GET y POST, indicando el siguiente enlace: http://localhost:8080/
+
